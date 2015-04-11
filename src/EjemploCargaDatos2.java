@@ -30,6 +30,8 @@ public class EjemploCargaDatos2 {
 			EjemploCargaDatos ecd = new EjemploCargaDatos(q);
 			insertarOcuEstad("Estadios.txt", ecd);
 			insertarEquipos("equipos.txt",ecd);
+			insertarEstad("Estadios.txt",ecd);
+			insertarResultadoAcu("resultado.txt",ecd);
 			
 		} catch (IOException e) {
 			System.out.println("Error: " + e.getMessage());
@@ -120,8 +122,9 @@ public class EjemploCargaDatos2 {
 					int fundacion = Integer.parseInt(datos[2]);
 					String nomHist = datos[3];
 					System.out.printf("insert into equipo"
-							+ "values (%s,%d,%d)%n",estadio,capacidad,anyo);
-					edc.insertarEst(estadio, capacidad, anyo);
+							+ "values (%s,%d,%s,%d)%n",nomCorto,ciudad,nomHist,
+							fundacion);
+					edc.insertarEquip(nomCorto,ciudad,nomHist,fundacion);
 				}
 			}
 		}
@@ -131,8 +134,32 @@ public class EjemploCargaDatos2 {
 		
 	}
 	
-	private void insertarResultadoAcu(String archivo){
-		
+	private static void insertarResultadoAcu(String archivo, EjemploCargaDatos edc){
+		File fichero = new File(archivo);
+		Scanner lectura;
+		try{
+			String linea;
+			String[] datos;
+			lectura = new Scanner(fichero);
+			// Leemos los datos y transformamos a instr SQL
+			while(lectura.hasNextLine()){
+				linea=lectura.nextLine();
+				datos=linea.split("\t");
+				if(datos.length>1){
+					String nomCorto=datos[0];
+					String ciudad=datos[1];
+					int fundacion = Integer.parseInt(datos[2]);
+					String nomHist = datos[3];
+					System.out.printf("insert into equipo"
+							+ "values (%s,%d,%s,%d)%n",nomCorto,ciudad,nomHist,
+							fundacion);
+					edc.insertarEquip(nomCorto,ciudad,nomHist,fundacion);
+				}
+			}
+		}
+		catch(FileNotFoundException e){
+			System.out.printf("%s%n", e.getMessage());
+		}
 	}
 	
 	private void insertarPartidos(String archvivo){
