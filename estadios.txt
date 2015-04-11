@@ -1,0 +1,108 @@
+Camp Nou 	Barcelona 	1957	99350	Barcelona
+Santiago Bernabéu 	Madrid 	1947	81040	Real Madrid
+Mestalla 	Valencia 	1923	55000	Valencia
+Vicente Calderón 	Madrid 	1966	54850	At. Madrid
+San Mamés 	Bilbao 	2013	53280	Ath. Bilbao
+Benito Villamarín 	Sevilla 	1929	52500	Betis
+Ramón Sánchez Pizjuán 	Sevilla 	1958	45500	Sevilla
+Cornellá-El Prat 	Cornellá y El Prat de Llobregat 	2009	40500	Espanyol
+Manuel Martínez Valero 	Elche 	1976	36017	Elche
+Riazor 	La Coruña 	1944	34600	Dptivo. Coruña
+La Romareda 	Zaragoza 	1957	34596	Zaragoza
+Anoeta 	San Sebastián 	1993	32076	Real Sociedad
+Gran Canaria	Gran Canaria	2003	31250	Las Palmas
+Nueva Condomina 	Murcia 	2006	31179	Murcia
+Carlos Tartiere 	Oviedo 	2000	30500	Oviedo
+La Rosaleda 	Málaga 	1941	30044	Málaga (C.D.)
+El Molinón 	Gijón 	1908	30000	Sporting Gijón
+José Rico Pérez 	Alicante 	1974	29500	Hércules
+Balaídos 	Vigo 	1928	29000	Celta
+José Zorrilla 	Valladolid 	1982	26512	Valladolid
+Ciudad de Valencia 	Valencia 	1969	25354	Levante
+Ramón de Carranza 	Cádiz 	1957	25033	Cádiz
+El Madrigal 	Villarreal 	1923	24500	Villarreal
+Iberostar Estadio 	Palma de Mallorca 	1999	23142	Mallorca
+Heliodoro Rodríguez López 	Santa Cruz de Tenerife 	1925	22948	Tenerife
+Los Cármenes 	Granada 	1995	22524	Granada
+El Sardinero 	Santander 	1988	22222	Rac. Santander
+Juegos Mediterráneos 	Almería 	2004	22000	Almería (A.D.)
+El Arcángel 	Córdoba 	1993	21822	Córdoba
+Nuevo Colombino 	Huelva 	2001	21349	Rec. Huelva
+Chapín 	Jerez de la Frontera 	1988	20486	Xerez
+Municipal 	La Línea de la Concepción 	1969	20000	RB Linense
+Mendizorroza 	Vitoria 	1957	19840	Alavés
+El Sadar 	Pamplona 	1967	19800	Osasuna
+Balear 	Palma de Mallorca 	1960	18000	CD Atlético Baleares
+La Condomina 	Murcia 	1924	17500	Murcia
+Carlos Belmonte 	Albacete 	1960	17400	Albacete
+Coliseum Alfonso Pérez 	Getafe 	1998	17000	Getafe
+Las Gaunas 	Logroño 	2002	16000	Logroño
+Castalia 	Castellón de la Plana 	1987	16000	Castellón
+Nuevo Vivero 	Badajoz 	1998	15598	Badajoz
+Mini Estadi 	Barcelona 	1982	15276	Barcelona B
+Cartagonova 	Cartagena 	1988	15105	Cartagena
+Estadio de Vallecas 	Madrid 	1976	14708	Rayo Vallecano
+Romano 	Mérida 	1953	14600	Mérida
+Nou Estadi de Tarragona 	Tarragona 	1971	14500	Gimn. Tarragona
+Camp d'Esports 	Lérida 	1919	13500	Lleida
+Reino de León 	León 	2001	13451	Cult. Leonesa
+Juan Rojas 	Almería 	1976	13000	Almería (A.D.)
+San Lázaro 	Santiago de Compostela 	1993	13000	Compostela
+La Victoria 	Jaén 	2001	12600	Jaén
+El Plantío 	Burgos 	1964	12200	Burgos
+A Malata 	Ferrol 	1993	12043	Rac. Santander
+Pasarón 	Pontevedra 	1956	12000	Pontevedra
+Nova Creu Alta 	Sabadell 	1967	11981	Sabadell
+Francisco de la Hera 	Almendralejo 	1951	11580	Extremadura
+Olímpic de Terrassa 	Tarrasa 	1960	11500	Terrassa
+Ciudad de Tudela 	Tudela 	1969	11000	CD Tudelano
+Ciudad de Málaga 	Málaga 	2006	10816	Málaga (C.D.)
+Álvarez Claro 	Melilla 	1945	10000	UD Melilla
+Municipal de Montilivi 	Gerona 	1970	9500	Girona
+Nuevo Los Pajaritos 	Soria 	1999	9025	Numancia
+La Murta 	Játiva 	1920	9000	CD Olímpic de Xàtiva
+Las Llanas 	Sestao 	1923	8905	Sestao
+José del Cuvillo 	El Puerto de Santa María 	1972	8600	RC Portuense
+El Toralín 	Ponferrada 	2000	8200	Ponferradina
+Artés Carrasco 	Lorca 	2003	8120	CF Lorca Deportiva
+Luis Suñer Picó 	Alcira 	1973	8100	UD Alzira
+Butarque 	Leganés 	1997	8000	Leganés
+Pepico Amat 	Elda 	1964	8000	Eldense
+Ciudad de Puertollano 	Puertollano 	2010	8000	Calvo Sotelo
+Ángel Carro 	Lugo 	1974	7840	Lugo
+Nuevo Mirador 	Algeciras 	1999	7500	Algeciras
+Hermanos Antuña 	Mieres 	1951	7500	Caudal
+Antonio Domínguez Alfonso 	Los Cristianos 	1992	7500	Marino
+Príncipe Felipe 	Cáceres 	1977	7000	Cáceres
+Nou Sardenya 	Barcelona 	1995	7000	Europeo
+Narcís Sala 	Barcelona 	1970	6550	Sant Andreu
+Compostilla 	Ponferrada 	1956	6023	Ponferradina
+Nuevo Malecón 	Torrelavega 	1922	6007	Torrelavega
+Pedro Escartín 	Guadalajara 	1967	6000	Guadalajara
+Suárez Puerta	Ávila	1943	5400	Avilés
+La Mina	Madrid	1916	6000	Carabanchel
+Gobela	Guecho	2004	1121	Arenas
+Estadio Municipal de La Línea	La Línea	1969	20000	Línea
+Artunduaga	Basauri	2007	1126	Basconia
+Stadium Gal	Irún	1926	6334	Irún
+Estadi Municipal de Vilatenim	Figueras	1985	9000	Figueres
+A Malata	Ferrol	1993	12043	Ferrol
+Berazubi	Tolosa	1992	3000	Tolosa
+Merkatondoa	Estella	1928	3500	Izarra
+Narcís Sala	Barcelona	1970	6550	Sant Andreu
+Anduva	Miranda de Ebro	1950	6900	Mirandés
+El Collao	Alcoy	1929	5000	Alcoyano
+Manuel Galeano Sánchez	Carrión de los Céspedes	2008	3234	Carrión
+Municipal de Ipurúa	Éibar	1947	5250	Eibar
+Paterna	Paterna	1992	3000	Mestalla 
+Alfredo Di Stéfano	Madrid	2006	5000	Plus
+O Couto	Orense	1949	5659	Ourense
+El Alcoraz	Huesca	1972	5000	Huesca
+Alfonso Murube	Ceuta	1933	6500	Ceuta
+Estadio Ganzábal	Langreo	2006	4024	Langreo
+Cerro del Espino	Majadahonda	1995	3376	At. Getafe
+Lezama	Instalaciones de Lezama	1971	1200	Ath. Bilbao B
+Las Gaunas	Logroño	2002	16000	Varea
+Municipal de El Plantío	Burgos	1964	15000	Burgos (Real)
+Santo Domingo	Alcorcón	1999	6000	Alcorcón
+Estadio Municipal de Montilla	Montilla	1981	5000	Montilla

@@ -1,0 +1,29 @@
+COMO USAR ESTE CÓDIGO
+---------------------
+
+El programa principal EjemploCargaDatos.main(String[]) crea una
+tabla en la base de datos (creaTablaArbitros), lee atributos de la
+tabla Eurocopa2012.txt (leeArbitros) y va insertando los datos
+que cumplen una determinada condición en la base de datos 
+(insertarArbitro).
+
+El código Java está diseñado para continuar su ejecución en 
+presencia de error de SQL (la tabla ya existe, los datos
+ya fueron insertados).
+
+Si queremos cargar un dato diferente, por ejemplo, Estadios y 
+Ciudades primero:
+- crearíamos un método denominado creaEstadios que contendría la
+sentencia de creación de la tabla. Se puede basar en creaTablaArbitros
+- crearímos un método denominado leeEstadios que leería los datos
+relevantes del tablón de datos en texto, dentro llamaríamos a un
+método denominado insertarEstadio con los datos relevantes de cada
+fila. Este método se basaría en leeArbitros
+- crearíamos un método denominado insertarEstadio que insertaría
+en la tabla definida en creaEstadios los valores encontrados. Este
+método se basaría en insertarArbitro.
+- crearíamos un método denominado procesarEstadios que llamaría en
+orden a crearEstadios, leeEstadios y listarEstadios
+- añadiríamos una llamada a procesarEstadios en el programa principal.
+
+

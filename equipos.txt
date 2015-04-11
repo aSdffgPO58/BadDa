@@ -1,0 +1,101 @@
+Rec. Huelva	Huelva	1889	Huelva Recreation Club	Nuevo Colombino	2ª
+Ath. Bilbao	Bilbao	1901	Athletic Club	San Mamés	1ª
+Barcelona	Barcelona	1899	Foot-Ball Club Barcelona	Camp Nou	1ª
+Espanyol	Barcelona	1900	Sociedad Española de Foot-Ball	Cornellá-El Prat	1ª
+Real Madrid	Madrid	1902	(Sociedad) Madrid Foot-Ball Club	Santiago Bernabéu	1ª
+Sabadell	Sabadell	1906	Centre d'Esports Sabadell	Nova Creu Alta	2ª
+At. Madrid	Madrid	1903	Athletic Club (Sucursal de Madrid)	Vicente Calderón	1ª
+Avilés	Avilés	1903	Avilés Sport Club	Suárez Puerta	2ª B
+Sporting Gijón	Gijón	1905	Sporting Gijonés	El Molinón	2ª
+Sevilla	Sevilla	1905	Sevilla Foot-Ball Club	Sánchez Pizjuán	1ª
+Carabanchel	Madrid	1906	Club Deportivo Carabanchel	La Mina	3ª
+Dptivo. Coruña	La Coruña	1906	Club Deportivo de la Sala Calvet	Riazor	1ª
+Europeo	Barcelona	1907	Club Deportivo Europa	Nou Sardenya	3ª
+Betis	Sevilla	1914	Sevilla Balompié	Benito Villamarín	1ª
+Torrelavega	Torrelavega	1907	Sociedad Gimnástica	El Malecón	3ª
+Murcia	Murcia	1908	Levante Foot-Ball Club de Murcia	Nueva Condomina	2ª B
+Real Sociedad	San Sebastián	1909	Sociedad de Foot-Ball	Anoeta	1ª
+Levante	Valencia	1909	Levante Foot-Ball Club	Ciudad de Valencia	1ª
+Arenas	Guecho	1910	Arenas Foot-Ball Club	Gobela	3ª
+Cádiz	Cádiz	1910	Cádiz Foot-Ball Club	Ramón de Carranza	2ª B
+Tenerife	Santa Cruz de Tenerife	1912	Sporting Club Tenerife	Heliodoro Rodríguez López	2ª
+Línea	La Línea	1912	Real Balompédica Linense	Estadio Municipal de La Línea	2ª B
+Algeciras	Algeciras	1912	Algeciras Club de Fútbol	Estadio Nuevo Mirador	2ªB
+Rac. Santander	Santander	1913	Santander Racing Club	El Sardinero	2ª
+Basconia	Basauri	1913	Club Deportivo Basconia	Artunduaga	3.ª
+Dptivo. Coruña B	La Coruña	1914	Fabril Foot-ball Club	El Mundo del Fútbol	3ª
+Gimn. Tarragona	Tarragona	1914	Club Gimnástico de Tarragona	Nou Estadi	2ª B
+Hércules	Alicante	1914	Hércules Foot-Ball Club	José Rico Pérez	2ª B
+Irún	Irún	1915	Real Unión Club de Irún	Stadium Gal	2ª B
+Mallorca	Palma de Mallorca	1916	(Sociedad) Alfonso XIII Foot-Ball Club	Iberostar Estadi	2ª
+Baracaldo	Baracaldo	1917	Baracaldo Foot-Ball Club	Nuevo Lasesarre	2ª B
+Alicante	Alicante	1918	Alicante Foot-Ball Club	Estadio Villafranqueza	1ª R.
+Caudal	Mieres	1918	Racing Club de Mieres	Hermanos Antuña	2ª B
+Cartagena	Cartagena	1919	Cartagena Foot-Ball Club	Estadio Cartagonova	3ª
+Figueres	Figueras	1919	Unión Sportiva Figueras	Estadi Municipal de Vilatenim	3ª
+Cáceres	Cáceres	1919	Club Deportivo Cacereño	Estadio Príncipe Felipe	2ªB
+Valencia	Valencia	1919	Valencia Foot-Ball Club	Mestalla	1ª
+Ferrol	Ferrol	1919	Racing Ferrol Foot-Ball Club	A Malata	2ª B
+Osasuna	Pamplona	1920	Club Atlético Osasuna	El Sadar	1ª
+Eldense	Elda	1921	Club Deportivo Eldense	Nuevo Pepico Amat	2ª B
+Alavés	Vitoria	1921	Club Deportivo Alavés	Mendizorroza	2ª
+Castellón	Castellón de la Plana	1919	Castellón Foot-Ball Club	Nuevo Estadio Castalia	3ª
+Elche	Elche	1922	Elche Foot-Ball Club	Martínez Valero	1ª
+Ponferradina	Ponferrada	1921	Sociedad Deportiva Ponferradina	El Toralín	2ª
+Tolosa	Tolosa	1922	Tolosa Foot-Ball Club	Berazubi	3ª
+Cult. Leonesa	León	1923	Cultural y Deportiva Leonesa	Reino de León	3ª
+Celta	Vigo	1923	Real Club Celta	Balaídos	1ª
+Rayo Vallecano	Madrid	1924	Agrupación Deportiva El Rayo	Campo de Fútbol de Vallecas	1ª
+Izarra	Estella	1924	Izarra Beti Aurrera	Merkatondoa	3ª
+Sant Andreu	Barcelona	1925	Unió Esportiva Sant Andreu	Narcís Sala	2ª B
+Oviedo	Oviedo	1926	Real Oviedo Foot-Ball Club	Carlos Tartiere	2ª B
+Mirandés	Miranda de Ebro	1927	Club Deportivo Mirandés	Anduva	2ª
+Valladolid	Valladolid	1928	Real Valladolid Deportivo	José Zorrilla	1ª
+Leganés	Leganés	1928	Club Deportivo Leganés	Municipal de Butarque	2ª
+Alcoyano	Alcoy	1928	Club Deportivo Alcoyano	El Collao	2ª B
+Carrión	Carrión de los Céspedes	1928	Carrión Balompié	Manuel Galeano Sánchez	2ª R.
+Jaén	Jaén	1929	Sociedad Olímpica Jiennense	Nuevo Estadio de La Victoria	2 Bª
+Girona	Gerona	1930	Gerona Foot-Ball Club	Municipal de Montilivi	2ª
+Granada	Granada	1931	Club Recreativo Granada	Nuevo Los Cármenes	1ª
+Marino	Gozón	1931	Club Marino	Miramar	2ª B
+Zaragoza	Zaragoza	1932	Zaragoza Foot-Ball Club	La Romareda	2ª
+Logroñés	Logroño	1940	Club Deportivo Logroñés	Las Gaunas	-
+Albacete	Albacete	1940	Albacete Foot-Ball Association	Carlos Belmonte	2ª
+Pontevedra	Pontevedra	1941	Pontevedra Club de Fútbol	Estadio Municipal de Pasarón	3ª
+Eibar	Éibar	1943	Sociedad Deportiva Eibar	Municipal de Ipurúa	2ª
+Mestalla	Paterna	1944	Club Deportivo Mestalla	Paterna	2ª B
+Numancia	Soria	1945	Club Deportivo Numancia	Nuevo Los Pajaritos	2ª
+Plus	Madrid	1946	Agrupación Deportiva Plus Ultra	Alfredo Di Stéfano	2ª B
+Villarreal	Villarreal	1944	Club Atlético Foghetecaz	El Madrigal	1ª
+Jerez	Jerez de la Frontera	1947	Jerez Club Deportivo	Chapín	3ª
+Guadalajara	Guadalajara	1947	Club Deportivo Guadalajara	Pedro Escartín	2ª B
+Granada	Granada	1947	Club Recreativo Granada	Estadio Miguel Prieto	2ª B
+Calvo Sotelo	Puertollano	1948	Club Deportivo Calvo Sotelo	Ciudad de Puertollano	3ª
+Las Palmas	Las Palmas de Gran Canaria	1949	Unión Deportiva Las Palmas	Estadio de Gran Canaria	2ª
+Ourense	Orense	1952	Club Deportivo Orense	O Couto	2ª B
+Lugo	Lugo	1953	Club Deportivo Lugo	Anxo Carro	2ª
+Córdoba	Córdoba	1954	Club Deportivo San Álvaro	Nuevo Arcángel	1ª
+Ceuta	Ceuta	1956	Club Atlético de Ceuta	Alfonso Murube	3ª
+Huesca	Huesca	1960	Sociedad Deportiva Huesca	El Alcoraz	2ª B
+Langreo	Langreo	1961	Unión Popular de Langreo	Estadio Ganzábal	3ª
+At. Getafe	Majadahonda	1963	Club Atlético Getafe	Cerro del Espino	2ª B
+Ath. Bilbao B	Lezama	1964	Club Atlético de Bilbao Amateur	Instalaciones de Lezama	2ª B
+Varea	Logroño	1967	Club Deportivo Varea	Las Gaunas	2ª B
+Barcelona B	Barcelona	1970	Barcelona Atlético	Mini Estadi	2ª
+Alcorcón	Alcorcón	1971	Agrupación Deportiva Alcorcón	Santo Domingo	2ª
+Montilla	Montilla	1973	Club Deportivo Montilla	Estadio Municipal de Montilla	1ª R.
+Getafe	Getafe	1983	Getafe Club de Fútbol	Coliseum Alfonso Pérez	1ª
+Burgos	Burgos	1983	Real Burgos Club de Fútbol	Pallafría	2ª R.
+Almería (A.D.)	Almería	1989	Almería Club de Fútbol	Estadio de los Juegos Mediterráneos	1ª
+Mérida	Mérida	1990	Unión Deportiva Mérida Promesas	Estadio Romano	3ª
+Málaga (C.D.)	Málaga	1994	Málaga Club de Fútbol	La Rosaleda	1ª
+Burgos (Real)	Burgos	1994	Burgos Club de Fútbol	Municipal de El Plantío	3ª
+Cartagena	Cartagena	1995	Cartagonova Fútbol Club	Cartagonova	2ª B
+Sestao	Sestao	1996	Sestao River Club	Las Llanas	2ª B
+Compostela	Santiago de Compostela	2004	Sociedad Deportiva Campus Stellae	Multiusos de San Lázaro	2ª B
+Extremadura	Almendralejo	2007	Extremadura Unión Deportiva	Francisco de la Hera	3ª
+Logroño	Logroño	2009	Sociedad Deportiva Logroñés	Las Gaunas	2ª B
+Terrassa	Tarrasa	2009	Terrassa Olímpica 2010	Olímpic de Terrassa	3ª
+Lleida	Lérida	2011	Club Lleida Esportiu	Camp d'Esports	2ª B
+Badajoz	Badajoz	2012	Club Deportivo Badajoz 1905	Nuevo Vivero	1ª R.
+Xerez	Jerez de la Frontera	2013	Xerez Deportivo Fútbol Club	Estadio Municipal de Chapín	3º Andaluza
